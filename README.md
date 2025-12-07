@@ -1,8 +1,6 @@
 # PS Mirror Server
 
-Source releases for Homebrew distribution.
-
-See [PS-Mirror](https://github.com/hex/PS-Mirror) for full documentation.
+WebSocket relay server for PS Mirror - bridges Photoshop to iOS for real-time preview.
 
 ## Installation
 
