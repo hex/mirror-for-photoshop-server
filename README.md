@@ -1,5 +1,7 @@
 # Mirror for Photoshop Server
 
+<img src="assets/designed-for-photoshop.png" alt="Designed for Adobe Photoshop" height="40">
+
 WebSocket relay server for Mirror for Photoshop - bridges Photoshop to iOS for real-time preview.
 
 ## Installation
