@@ -11,8 +11,7 @@ WebSocket relay server for Mirror for Photoshop - bridges Photoshop to iOS for r
 **Homebrew (recommended):**
 
 ```bash
-brew tap hex/mirror-for-photoshop
-brew install mirror-for-photoshop-server
+brew install hex/tap/mirror-for-photoshop-server
 ```
 
 **Direct Download:**
